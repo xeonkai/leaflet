@@ -1,0 +1,4 @@
+packrat/lib*/
+packrat/src/
+packrat/init.R
+packrat/packrat.opts

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602772793755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "122C6224",
+    "lastKnownWriteTime" : 1602335352,
+    "last_content_update" : 1602335352,
+    "path" : "~/R/leaflet/scripts/01_intro.R",
+    "project_path" : "scripts/01_intro.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
